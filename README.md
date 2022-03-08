@@ -1,6 +1,6 @@
 # data_base
 
-Universal
+UNIVERSAL
 
 ER diagram
 
